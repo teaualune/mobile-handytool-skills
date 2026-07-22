@@ -24,6 +24,8 @@ Work through the four steps in order. Respect the STOP conditions.
   and would be easier. The caller wants the *"Figma to Code" plugin* output and
   Figma's own *export* PNG; the MCP produces different artifacts and would
   defeat the skill's purpose. Every step here goes through the browser.
+  ("Figma to Code" plugin:
+  <https://www.figma.com/community/plugin/842128343887142055>.)
 - **Never type the caller's Figma email, password, or any credentials.** Always
   have the caller log in themselves.
 - Both the **code files** and the **2x PNGs** reach disk as browser
