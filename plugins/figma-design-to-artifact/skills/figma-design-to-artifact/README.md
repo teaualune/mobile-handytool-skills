@@ -98,7 +98,6 @@ The full step-by-step contract lives in [`SKILL.md`](./SKILL.md).
 | [`figma-browser-navigation.md`](./figma-browser-navigation.md) | Detailed figma.com UI navigation, gotchas, and troubleshooting. **Read before Step 3.** |
 | [`validate_figma_urls.py`](./validate_figma_urls.py) | Classify URLs as valid node targets vs. excluded; emit file key, node id, and a `slug`. |
 | [`detect_tech_stack.py`](./detect_tech_stack.py) | Map a repo to one plugin language (`flutter` \| `swiftui` \| `tailwind` \| `html`, HTML fallback) with evidence. |
-| `figma-design-to-artifact.skill` | Packaged (zipped) distributable of the skill. |
 
 ### Helper usage
 
