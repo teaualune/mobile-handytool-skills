@@ -1,0 +1,12 @@
+{
+  "name": "figma-design-to-artifact",
+  "description": "Export Figma nodes into technical-requirement artifacts by driving Chrome: labeled sample code from the \"Figma to Code\" plugin plus a 2x PNG screenshot for each node.",
+  "version": "0.1.0",
+  "author": {
+    "name": "teaualune",
+    "email": "teaualune@gmail.com"
+  },
+  "repository": "https://github.com/teaualune/mobile-handytool-skills",
+  "license": "WTFPL",
+  "keywords": ["figma", "figma-to-code", "design-handoff", "claude-in-chrome", "flutter", "swiftui", "tailwind"]
+}

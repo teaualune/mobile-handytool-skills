@@ -1,0 +1,45 @@
+        DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+                    Version 2, December 2004
+
+ Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
+ Copyright (C) 2026 teaualune <teaualune@gmail.com>
+
+ Everyone is permitted to copy and distribute verbatim or modified
+ copies of this license document, and changing it is allowed as long
+ as the name is changed.
+
+            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+  0. You just DO WHAT THE FUCK YOU WANT TO.
+
+------------------------------------------------------------------------
+
+                 TRADEMARK & THIRD-PARTY DISCLAIMERS
+       (informational notices — not part of the license above)
+
+"Claude", "Claude Code", and "Anthropic" are trademarks of Anthropic,
+PBC. This project is an independent, community-made bundle of skill
+files for use with Claude Code. It is not affiliated with, sponsored
+by, or endorsed by Anthropic. The license above applies only to the
+contents of this repository and grants no rights to the "Claude" or
+"Anthropic" names, trademarks, or products.
+
+"Figma" is a trademark of Figma, Inc. "Figma to Code" is a third-party
+Figma Community plugin by its own author; this repository does not
+bundle or redistribute it. See the disclaimers in
+plugins/figma-design-to-artifact/skills/figma-design-to-artifact/README.md.
+
+"Apple", "App Store Connect", "TestFlight", "iOS", and "Swift" are
+trademarks of Apple Inc. "Google Play", "Play Console", "Android",
+"Chrome", and "Flutter" are trademarks of Google LLC. "React Native" is
+a trademark of Meta Platforms, Inc. This project is not affiliated with,
+sponsored by, or endorsed by any of them, and those names appear solely
+to identify the platforms and tools the skills target. The license above
+grants no rights to those names, trademarks, or products.
+
+NO WARRANTY. The material in this repository is provided "as is",
+without warranty of any kind. Store requirements and third-party web
+interfaces change without notice; review all generated output before
+relying on it. The authors accept no liability for any damages arising
+from its use.
