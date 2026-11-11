@@ -1,7 +1,7 @@
 {
   "name": "store-submission-prep",
-  "description": "Scan a mobile app codebase (iOS, Android, React Native/Expo, Flutter) and write a prefilled handover sheet covering the App Store Connect and Play Console fields for a first-time submission.",
-  "version": "0.1.0",
+  "description": "Scan a mobile app codebase (iOS, Android, React Native/Expo, Flutter) and write a prefilled handover sheet covering the App Store Connect and Play Console fields for a first submission or a new version, with store copy drafted for every listing language.",
+  "version": "0.2.0",
   "author": {
     "name": "teaualune",
     "email": "teaualune@gmail.com"

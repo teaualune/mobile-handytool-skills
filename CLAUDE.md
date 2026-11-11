@@ -44,4 +44,4 @@ A tool takes one recurring mobile-development chore off the developer's hands. F
 ## Tool notes
 
 - **`figma-design-to-artifact`** is browser-driven on purpose: don't replace it with the Figma MCP or Dev Mode API, which produce different artifacts. Its no-Dev-Mode fallback stays in the browser too: never the REST API (free and view-only seats get a handful of calls a month), and never workarounds for Figma's permission gates. `figma-browser-navigation.md` documents the live figma.com UI, so it is the file to update when Figma changes. The helper scripts sit beside `SKILL.md` (no `scripts/` folder), use only the Python standard library, and print JSON.
-- **`store-submission-prep`** is a single `SKILL.md` containing the field catalog. It prepares a handover sheet only and never uploads, builds, or submits.
+- **`store-submission-prep`** is a single `SKILL.md` containing the field catalog. It prepares a handover sheet only and never uploads, builds, or submits. Console labels stay English on purpose: owners with a translated console get matching aids (switch-to-English steps, localized help links), not per-locale label maps.
