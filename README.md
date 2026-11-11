@@ -6,7 +6,7 @@ A Claude Code plugin **marketplace** of handy tools for problems that come up du
 
 | Plugin | What it does | Requires |
 |---|---|---|
-| `figma-design-to-artifact` | Turns Figma node URLs into paired reference artifacts by driving Chrome: labeled sample code from the "Figma to Code" plugin plus a 2x PNG. [Details](plugins/figma-design-to-artifact/skills/figma-design-to-artifact/README.md) | Claude-in-Chrome, a Figma login, Python 3 |
+| `figma-design-to-artifact` | Turns Figma node URLs into reference artifacts by driving Chrome: labeled sample code from the "Figma to Code" plugin plus a 2x PNG — or, without Dev Mode, Figma's CSS for all layers plus a JSON layer tree. [Details](plugins/figma-design-to-artifact/skills/figma-design-to-artifact/README.md) | Claude-in-Chrome, a Figma login, Python 3 |
 | `store-submission-prep` | Scans a mobile codebase and writes a prefilled handover sheet covering the App Store Connect and Play Console fields for a first-time submission | An iOS, Android, React Native/Expo, or Flutter project |
 
 ## Installation

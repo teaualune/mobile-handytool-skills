@@ -1,7 +1,7 @@
 {
   "name": "figma-design-to-artifact",
-  "description": "Export Figma nodes into technical-requirement artifacts by driving Chrome: labeled sample code from the \"Figma to Code\" plugin plus a 2x PNG screenshot for each node.",
-  "version": "0.1.0",
+  "description": "Export Figma nodes into technical-requirement artifacts by driving Chrome: labeled sample code from the \"Figma to Code\" plugin plus a 2x PNG screenshot for each node, falling back to Figma's CSS for all layers plus a JSON layer tree when there is no Dev Mode.",
+  "version": "0.2.0",
   "author": {
     "name": "teaualune",
     "email": "teaualune@gmail.com"
