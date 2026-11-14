@@ -17,6 +17,11 @@
       "name": "store-submission-prep",
       "source": "./plugins/store-submission-prep",
       "description": "Scan a mobile app codebase (iOS, Android, React Native/Expo, Flutter) and write a prefilled handover sheet covering the App Store Connect and Play Console fields for a first submission or a new version, with store copy drafted for every listing language."
+    },
+    {
+      "name": "crash-issue-fixer",
+      "source": "./plugins/crash-issue-fixer",
+      "description": "Investigate and fix crash, non-fatal and ANR issues from Firebase Crashlytics (through the Firebase MCP server or the console in Chrome) or pasted from any crash reporter: checks whether each issue is already fixed, traces native iOS/Android stacks back to the app's code (including React Native and Flutter), proposes root-cause fixes that are applied after approval, and can file the results as GitHub issues."
     }
   ]
 }

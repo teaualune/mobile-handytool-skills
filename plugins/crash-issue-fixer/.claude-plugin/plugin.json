@@ -1,0 +1,12 @@
+{
+  "name": "crash-issue-fixer",
+  "description": "Investigate and fix crash, non-fatal and ANR issues from Firebase Crashlytics (through the Firebase MCP server or the console in Chrome) or pasted from any crash reporter: checks whether each issue is already fixed, traces native iOS/Android stacks back to the app's code (including React Native and Flutter), proposes root-cause fixes that are applied after approval, and can file the results as GitHub issues.",
+  "version": "0.1.0",
+  "author": {
+    "name": "teaualune",
+    "email": "teaualune@gmail.com"
+  },
+  "repository": "https://github.com/teaualune/mobile-handytool-skills",
+  "license": "WTFPL",
+  "keywords": ["crashlytics", "firebase", "crash", "anr", "stack-trace", "ios", "android", "react-native", "flutter"]
+}
